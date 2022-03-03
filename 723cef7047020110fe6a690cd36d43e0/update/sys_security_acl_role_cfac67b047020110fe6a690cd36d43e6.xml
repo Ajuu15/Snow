@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-03 06:58:08</sys_created_on>
+        <sys_id>cfac67b047020110fe6a690cd36d43e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_775408_needit_needit.agent_security_admin</sys_name>
+        <sys_package display_value="Needit" source="x_775408_needit">723cef7047020110fe6a690cd36d43e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">723cef7047020110fe6a690cd36d43e0</sys_scope>
+        <sys_security_acl display_value="x_775408_needit_needit">87ac67b047020110fe6a690cd36d43e4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cfac67b047020110fe6a690cd36d43e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-03 06:58:08</sys_updated_on>
+        <sys_user_role display_value="agent_security_admin" name="agent_security_admin">1e310fdaff1550103894c787d53bf198</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
